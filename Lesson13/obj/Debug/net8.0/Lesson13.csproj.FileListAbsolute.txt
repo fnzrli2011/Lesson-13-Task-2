@@ -1,0 +1,14 @@
+/home/mrcat/Programming/C#/Lesson13/bin/Debug/net8.0/Lesson13
+/home/mrcat/Programming/C#/Lesson13/bin/Debug/net8.0/Lesson13.deps.json
+/home/mrcat/Programming/C#/Lesson13/bin/Debug/net8.0/Lesson13.runtimeconfig.json
+/home/mrcat/Programming/C#/Lesson13/bin/Debug/net8.0/Lesson13.dll
+/home/mrcat/Programming/C#/Lesson13/bin/Debug/net8.0/Lesson13.pdb
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.AssemblyInfoInputs.cache
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.AssemblyInfo.cs
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.csproj.CoreCompileInputs.cache
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.dll
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/refint/Lesson13.dll
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.pdb
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/Lesson13.genruntimeconfig.cache
+/home/mrcat/Programming/C#/Lesson13/obj/Debug/net8.0/ref/Lesson13.dll

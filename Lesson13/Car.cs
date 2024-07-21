@@ -7,7 +7,7 @@ namespace Lesson13
 {
     public class Car
     {
-        public static int _id=0;
+        private static int _id=0;
         public int Id {get; private set;}
         public string Brand {get ; set ;}
         public string model { get ; set ;}

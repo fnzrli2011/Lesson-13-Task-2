@@ -1,0 +1,15 @@
+/home/mrcat/Programming/C#/Lesson15/bin/Debug/net8.0/Lesson15
+/home/mrcat/Programming/C#/Lesson15/bin/Debug/net8.0/Lesson15.deps.json
+/home/mrcat/Programming/C#/Lesson15/bin/Debug/net8.0/Lesson15.runtimeconfig.json
+/home/mrcat/Programming/C#/Lesson15/bin/Debug/net8.0/Lesson15.dll
+/home/mrcat/Programming/C#/Lesson15/bin/Debug/net8.0/Lesson15.pdb
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.GeneratedMSBuildEditorConfig.editorconfig
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.AssemblyInfoInputs.cache
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.AssemblyInfo.cs
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.csproj.CoreCompileInputs.cache
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.sourcelink.json
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.dll
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/refint/Lesson15.dll
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.pdb
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/Lesson15.genruntimeconfig.cache
+/home/mrcat/Programming/C#/Lesson15/obj/Debug/net8.0/ref/Lesson15.dll

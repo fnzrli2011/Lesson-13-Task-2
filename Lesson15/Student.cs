@@ -18,6 +18,14 @@ namespace Lesson15
             _ID++;
             ID=_ID;
         }
+        public string ShowInfoStudent()
+        {
+            return $"Adi ve Soyadi: {Fullname} Bali : {Point} Id : {ID} ";   
+        }
+        public override string ToString()
+        {
+            return ShowInfoStudent();
+        }
 
     }
 }

@@ -13,7 +13,18 @@ namespace Lesson15
 {
     public class Group
     {
-        public string GroupNo {get; set;}
+        private string gno {get; set;}
+        public string GroupNo 
+        {
+            get
+            {
+                return gno;
+            }
+            set
+            {
+                if(CheckGroupNo(value)==true) gno = value;
+            }
+        }
         private int sl {get; set;}
         public int StudentLimit 
         {
